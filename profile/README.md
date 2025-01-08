@@ -5,20 +5,20 @@
 ## pages
 
 ### main
-![main](./profile/assets/main.png)
+![main](./assets/main.png)
 
 ### introduce
-![introduce](./profile/assets/introduce.png)
+![introduce](./assets/introduce.png)
 
 ### members
-![members](./profile/assets/members.png)
+![members](./assets/members.png)
 
 ### research
-![research](./profile/assets/research.png)
+![research](./assets/research.png)
 
 ### publication
-![publication](./profile/assets/publication.png)
+![publication](./assets/publication.png)
 
 ### recruitment
-![recruitment](./profile/assets/Recruitment.png)
+![recruitment](./assets/Recruitment.png)
 
